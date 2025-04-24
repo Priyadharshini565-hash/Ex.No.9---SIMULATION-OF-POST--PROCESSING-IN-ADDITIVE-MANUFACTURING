@@ -1,4 +1,3 @@
-![Screenshot 2025-04-24 160353](https://github.com/user-attachments/assets/f9d58a6c-4c5c-4ef9-9bef-a9d48448e4ca)# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 24-04-2024
 
